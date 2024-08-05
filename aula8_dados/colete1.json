@@ -1,0 +1,37 @@
+[
+    {
+        "produto": "Notebook",
+        "categoria": "Eletrônicos",
+        "quantidade": 2,
+        "venda": 3500.00,
+        "data": "2024-08-01"
+    },
+    {
+        "produto": "Smartphone",
+        "categoria": "Eletrônicos",
+        "quantidade": 5,
+        "venda": 2500.00,
+        "data": "2024-08-02"
+    },
+    {
+        "produto": "Mesa de Escritório",
+        "categoria": "Móveis",
+        "quantidade": 1,
+        "venda": 450.00,
+        "data": "2024-08-03"
+    },
+    {
+        "produto": "Cadeira Gamer",
+        "categoria": "Móveis",
+        "quantidade": 3,
+        "venda": 750.00,
+        "data": "2024-08-04"
+    },
+    {
+        "produto": "Fone de Ouvido",
+        "categoria": "Acessórios",
+        "quantidade": 10,
+        "venda": 300.00,
+        "data": "2024-08-05"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "produto": "Tablet",
+        "categoria": "Eletrônicos",
+        "quantidade": 4,
+        "venda": 1200.00,
+        "data": "2024-08-06"
+    },
+    {
+        "produto": "Monitor",
+        "categoria": "Eletrônicos",
+        "quantidade": 3,
+        "venda": 900.00,
+        "data": "2024-08-07"
+    },
+    {
+        "produto": "Sofá",
+        "categoria": "Móveis",
+        "quantidade": 1,
+        "venda": 1800.00,
+        "data": "2024-08-08"
+    },
+    {
+        "produto": "Luminária de Mesa",
+        "categoria": "Iluminação",
+        "quantidade": 7,
+        "venda": 350.00,
+        "data": "2024-08-09"
+    },
+    {
+        "produto": "Teclado Mecânico",
+        "categoria": "Acessórios",
+        "quantidade": 6,
+        "venda": 720.00,
+        "data": "2024-08-10"
+    }
+]
